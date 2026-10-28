@@ -1,1 +1,2 @@
 Create fresh file
+Login as new user
